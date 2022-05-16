@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background: #333;
+    overflow: hidden;
+    text-align: center;
+}
+
+#networkCanvas{
+    background: #000000;
+}
+#carCanvas{
+    background: #a0a0a0;
+}
